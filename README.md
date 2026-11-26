@@ -8,7 +8,7 @@
 - 🤝 **Open to collaboration and guidance in Machine Learning projects.**
 - 📚 Always learning new technologies and improving my technical skills.
 - 💡 Interested in building innovative solutions through technology.
-
+ 
 🎯 Current Focus
 - Python Programming
 - Machine Learning with Python
